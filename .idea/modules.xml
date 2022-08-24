@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAY1-SonarSweep/DAY1-SonarSweep.iml" filepath="$PROJECT_DIR$/DAY1-SonarSweep/DAY1-SonarSweep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY2-Drive!/DAY2-Drive!.iml" filepath="$PROJECT_DIR$/DAY2-Drive!/DAY2-Drive!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY3-BinaryDiagnostic/DAY3-BinaryDiagnostic.iml" filepath="$PROJECT_DIR$/DAY3-BinaryDiagnostic/DAY3-BinaryDiagnostic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY4-GiantSquid/DAY4-GiantSquid.iml" filepath="$PROJECT_DIR$/DAY4-GiantSquid/DAY4-GiantSquid.iml" />
+    </modules>
+  </component>
+</project>
